@@ -30,6 +30,8 @@ The following controls are available:
 
 This demo is available [here!](https://aleql.github.io/HexagonalGridDemo/)
 
+Implemented using Unity 2021.3.9f1
+
 Additional resources:
 
 [https://www.redblobgames.com/grids/hexagons/](https://www.redblobgames.com/grids/hexagons/)
